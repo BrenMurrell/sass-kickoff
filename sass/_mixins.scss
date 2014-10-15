@@ -1,3 +1,4 @@
+/* Simple media query mixin, ref: http://alwaystwisted.com/post.php?s=2013-04-01-my-media-query-mixin */
 @mixin mq($point, $IE9: false, $query1: min, $query2: width) {
     @if $IE9 == true{
         .lt-ie9 & {
