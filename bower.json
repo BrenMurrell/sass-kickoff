@@ -1,0 +1,25 @@
+{
+  "name": "sass-kickoff",
+  "version": "0.0.1",
+  "homepage": "https://github.com/BrenMurrell/sass-kickoff",
+  "description": "A Sass library to kick start front end development",
+  "main": "sass/screen.scss",
+  "keywords": [
+    "sass",
+    "compass",
+    "atomic",
+    "design"
+  ],
+  "authors": [
+    "BrenMurrell"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
