@@ -1,0 +1,35 @@
+/*------------------------------------*\
+    $VARIABLES
+\*------------------------------------*/
+
+//Colors
+$color-brand : #000;
+$color-error : #f00;
+$color-valid : #089e00;
+$color-warning : #fff664;
+$color-information : #000db5;
+
+
+//Typography
+$font : "HelveticaNeue", "Helvetica", "Arial", sans-serif;
+$font-secondary : Georgia, Times, "Times New Roman", serif;
+
+$font-size-base : ms(0);
+
+
+//Layout
+$max-width: 60em; // 960px
+
+//Borders
+$border-radius: 1em;
+
+//animation
+$anim-speed : 0.4s;
+
+//Breakpoints - Major breakpoints based on purecss.io 
+
+$bp-sm : 35.5em;
+$bp-md : 48em;
+$bp-lg : 64em;
+$bp-xl : 80em;
+//
